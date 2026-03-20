@@ -1,0 +1,5 @@
+[1.0.0] - 2026-03-20
+
+Adicionado
+* Index inicial do projeto
+* Documentação
